@@ -7,10 +7,10 @@ using namespace std;
 
 int main() {
     string name, password;
-    cout << "Enter username: ";
+    cout << "Enter Name: ";
     cin >> name;
 
-    cout << "Enter password: ";
+    cout << "Enter Password: ";
     cin >> password;
     // Read name and password from stdin
     
